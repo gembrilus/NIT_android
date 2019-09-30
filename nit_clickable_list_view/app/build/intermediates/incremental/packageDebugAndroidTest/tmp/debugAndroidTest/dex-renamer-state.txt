@@ -1,0 +1,4 @@
+#Tue Sep 17 18:04:41 EEST 2019
+base.0=/home/maksim/work/AndroidStudioProjects/nit_clickable_list_view/app/build/intermediates/transforms/dexMerger/androidTest/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

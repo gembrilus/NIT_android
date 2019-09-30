@@ -1,0 +1,161 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/maksim/work/AndroidStudioProjects/NIT_Projects/nit_permission_normal_simple/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/maksim/work/AndroidStudioProjects/NIT_Projects/nit_permission_normal_simple/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/maksim/work/AndroidStudioProjects/NIT_Projects/nit_permission_normal_simple/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/maksim/work/AndroidStudioProjects/NIT_Projects/nit_permission_normal_simple/app/src/main/AndroidManifest.xml:2:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/maksim/.gradle/caches/transforms-2/files-2.1/91eaf7c251b051e150d0d34697a0e729/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/maksim/.gradle/caches/transforms-2/files-2.1/263b846e4ab3562456945ad8bf1f6780/AndroidManifest.xml:2:1-11:12
+MERGED from [:checker] /home/maksim/work/AndroidStudioProjects/NIT_Projects/nit_permission_normal_simple/checker/build/transforms/9ec16a9b655ef54d02461c90c45f892d/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/1aab1fe271daa047ec6e3e656c9fae9a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/33d2fb978baf4618b94d54aedb3d1843/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/aa05ab18e0c186ea616fe42388c93f4e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/c036414e71759bf7ac2a90893cb76d8b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/maksim/.gradle/caches/transforms-2/files-2.1/46b5f1c0d97c008ccb48c14c62a3b666/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/3bd39bf009bf5280fd9263b022cd91e6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/2e02bece1367a238b6a34b881138cb39/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/cf9532ee29e085ee8f33be6e2ec4b958/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/e4a44c7f6a8d71b8040ef586ac085b36/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/9227d63e62cc80f2823f3269ab31ab5c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/e9ab94537a599f14b50b73472bb44138/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/45aa8de8cfb9a6a5e80d22352d790500/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/1be14c5990910efc1881a4bca23929eb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /home/maksim/.gradle/caches/transforms-2/files-2.1/de8341cb45261bc08df981f2c4f8961d/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/76df84d74afa9ef2a2c0d03fafb2c504/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/d1b25c80d1bcfb47eea3a6602b587b25/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/1c23df2578543497dadcd7fecf98e62d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/e3d03a46db9abae40caf0c21055b2819/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/a751913f62281ff38b50c2d2b97c36bc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/a5934b20d418e6545ea4726d05a25302/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/bd85d50cbf0db261d1b4fcd9c1ce136f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/ddba0b7e5fca70a7c792ca45d70ea604/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/7943e19b5a63e956219b8e8b68532e9a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/7c5d6f3b9962694fa1470fd50eedcb54/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/462ad03bf991e5251dfdee1470f43b1f/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/maksim/work/AndroidStudioProjects/NIT_Projects/nit_permission_normal_simple/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/maksim/work/AndroidStudioProjects/NIT_Projects/nit_permission_normal_simple/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/maksim/work/AndroidStudioProjects/NIT_Projects/nit_permission_normal_simple/app/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /home/maksim/work/AndroidStudioProjects/NIT_Projects/nit_permission_normal_simple/app/src/main/AndroidManifest.xml:3:5-48
+		INJECTED from /home/maksim/work/AndroidStudioProjects/NIT_Projects/nit_permission_normal_simple/app/src/main/AndroidManifest.xml
+		INJECTED from /home/maksim/work/AndroidStudioProjects/NIT_Projects/nit_permission_normal_simple/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/maksim/work/AndroidStudioProjects/NIT_Projects/nit_permission_normal_simple/app/src/main/AndroidManifest.xml
+		ADDED from /home/maksim/work/AndroidStudioProjects/NIT_Projects/nit_permission_normal_simple/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /home/maksim/work/AndroidStudioProjects/NIT_Projects/nit_permission_normal_simple/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/maksim/work/AndroidStudioProjects/NIT_Projects/nit_permission_normal_simple/app/src/main/AndroidManifest.xml
+		ADDED from /home/maksim/work/AndroidStudioProjects/NIT_Projects/nit_permission_normal_simple/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /home/maksim/work/AndroidStudioProjects/NIT_Projects/nit_permission_normal_simple/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/maksim/work/AndroidStudioProjects/NIT_Projects/nit_permission_normal_simple/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from /home/maksim/work/AndroidStudioProjects/NIT_Projects/nit_permission_normal_simple/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /home/maksim/work/AndroidStudioProjects/NIT_Projects/nit_permission_normal_simple/app/src/main/AndroidManifest.xml:5:22-65
+application
+ADDED from /home/maksim/work/AndroidStudioProjects/NIT_Projects/nit_permission_normal_simple/app/src/main/AndroidManifest.xml:6:5-20:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/maksim/.gradle/caches/transforms-2/files-2.1/263b846e4ab3562456945ad8bf1f6780/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/maksim/.gradle/caches/transforms-2/files-2.1/263b846e4ab3562456945ad8bf1f6780/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] /home/maksim/.gradle/caches/transforms-2/files-2.1/de8341cb45261bc08df981f2c4f8961d/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /home/maksim/.gradle/caches/transforms-2/files-2.1/de8341cb45261bc08df981f2c4f8961d/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/76df84d74afa9ef2a2c0d03fafb2c504/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/76df84d74afa9ef2a2c0d03fafb2c504/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /home/maksim/.gradle/caches/transforms-2/files-2.1/de8341cb45261bc08df981f2c4f8961d/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /home/maksim/work/AndroidStudioProjects/NIT_Projects/nit_permission_normal_simple/app/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /home/maksim/work/AndroidStudioProjects/NIT_Projects/nit_permission_normal_simple/app/src/main/AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from /home/maksim/work/AndroidStudioProjects/NIT_Projects/nit_permission_normal_simple/app/src/main/AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from /home/maksim/work/AndroidStudioProjects/NIT_Projects/nit_permission_normal_simple/app/src/main/AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from /home/maksim/work/AndroidStudioProjects/NIT_Projects/nit_permission_normal_simple/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /home/maksim/work/AndroidStudioProjects/NIT_Projects/nit_permission_normal_simple/app/src/main/AndroidManifest.xml:12:9-40
+activity#com.example.company.myapplication.MainActivity
+ADDED from /home/maksim/work/AndroidStudioProjects/NIT_Projects/nit_permission_normal_simple/app/src/main/AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from /home/maksim/work/AndroidStudioProjects/NIT_Projects/nit_permission_normal_simple/app/src/main/AndroidManifest.xml:13:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/maksim/work/AndroidStudioProjects/NIT_Projects/nit_permission_normal_simple/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /home/maksim/work/AndroidStudioProjects/NIT_Projects/nit_permission_normal_simple/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /home/maksim/work/AndroidStudioProjects/NIT_Projects/nit_permission_normal_simple/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/maksim/work/AndroidStudioProjects/NIT_Projects/nit_permission_normal_simple/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /home/maksim/work/AndroidStudioProjects/NIT_Projects/nit_permission_normal_simple/app/src/main/AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from /home/maksim/work/AndroidStudioProjects/NIT_Projects/nit_permission_normal_simple/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/maksim/work/AndroidStudioProjects/NIT_Projects/nit_permission_normal_simple/app/src/main/AndroidManifest.xml
+INJECTED from /home/maksim/work/AndroidStudioProjects/NIT_Projects/nit_permission_normal_simple/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/maksim/.gradle/caches/transforms-2/files-2.1/91eaf7c251b051e150d0d34697a0e729/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/maksim/.gradle/caches/transforms-2/files-2.1/91eaf7c251b051e150d0d34697a0e729/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/maksim/.gradle/caches/transforms-2/files-2.1/263b846e4ab3562456945ad8bf1f6780/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/maksim/.gradle/caches/transforms-2/files-2.1/263b846e4ab3562456945ad8bf1f6780/AndroidManifest.xml:5:5-7:41
+MERGED from [:checker] /home/maksim/work/AndroidStudioProjects/NIT_Projects/nit_permission_normal_simple/checker/build/transforms/9ec16a9b655ef54d02461c90c45f892d/AndroidManifest.xml:7:5-9:41
+MERGED from [:checker] /home/maksim/work/AndroidStudioProjects/NIT_Projects/nit_permission_normal_simple/checker/build/transforms/9ec16a9b655ef54d02461c90c45f892d/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/1aab1fe271daa047ec6e3e656c9fae9a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/1aab1fe271daa047ec6e3e656c9fae9a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/33d2fb978baf4618b94d54aedb3d1843/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/33d2fb978baf4618b94d54aedb3d1843/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/aa05ab18e0c186ea616fe42388c93f4e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/aa05ab18e0c186ea616fe42388c93f4e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/c036414e71759bf7ac2a90893cb76d8b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/c036414e71759bf7ac2a90893cb76d8b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/maksim/.gradle/caches/transforms-2/files-2.1/46b5f1c0d97c008ccb48c14c62a3b666/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/maksim/.gradle/caches/transforms-2/files-2.1/46b5f1c0d97c008ccb48c14c62a3b666/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/3bd39bf009bf5280fd9263b022cd91e6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/3bd39bf009bf5280fd9263b022cd91e6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/2e02bece1367a238b6a34b881138cb39/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/2e02bece1367a238b6a34b881138cb39/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/cf9532ee29e085ee8f33be6e2ec4b958/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/cf9532ee29e085ee8f33be6e2ec4b958/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/e4a44c7f6a8d71b8040ef586ac085b36/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/e4a44c7f6a8d71b8040ef586ac085b36/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/9227d63e62cc80f2823f3269ab31ab5c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/9227d63e62cc80f2823f3269ab31ab5c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/e9ab94537a599f14b50b73472bb44138/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/e9ab94537a599f14b50b73472bb44138/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/45aa8de8cfb9a6a5e80d22352d790500/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/45aa8de8cfb9a6a5e80d22352d790500/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/1be14c5990910efc1881a4bca23929eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/1be14c5990910efc1881a4bca23929eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/maksim/.gradle/caches/transforms-2/files-2.1/de8341cb45261bc08df981f2c4f8961d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/maksim/.gradle/caches/transforms-2/files-2.1/de8341cb45261bc08df981f2c4f8961d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/76df84d74afa9ef2a2c0d03fafb2c504/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/76df84d74afa9ef2a2c0d03fafb2c504/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/d1b25c80d1bcfb47eea3a6602b587b25/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/d1b25c80d1bcfb47eea3a6602b587b25/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/1c23df2578543497dadcd7fecf98e62d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/1c23df2578543497dadcd7fecf98e62d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/e3d03a46db9abae40caf0c21055b2819/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/e3d03a46db9abae40caf0c21055b2819/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/a751913f62281ff38b50c2d2b97c36bc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/a751913f62281ff38b50c2d2b97c36bc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/a5934b20d418e6545ea4726d05a25302/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/a5934b20d418e6545ea4726d05a25302/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/bd85d50cbf0db261d1b4fcd9c1ce136f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/bd85d50cbf0db261d1b4fcd9c1ce136f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/ddba0b7e5fca70a7c792ca45d70ea604/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/ddba0b7e5fca70a7c792ca45d70ea604/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/7943e19b5a63e956219b8e8b68532e9a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/7943e19b5a63e956219b8e8b68532e9a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/7c5d6f3b9962694fa1470fd50eedcb54/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/7c5d6f3b9962694fa1470fd50eedcb54/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/462ad03bf991e5251dfdee1470f43b1f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/maksim/.gradle/caches/transforms-2/files-2.1/462ad03bf991e5251dfdee1470f43b1f/AndroidManifest.xml:20:5-44
+INJECTED from /home/maksim/work/AndroidStudioProjects/NIT_Projects/nit_permission_normal_simple/app/src/main/AndroidManifest.xml
+INJECTED from /home/maksim/work/AndroidStudioProjects/NIT_Projects/nit_permission_normal_simple/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/maksim/work/AndroidStudioProjects/NIT_Projects/nit_permission_normal_simple/app/src/main/AndroidManifest.xml
+		ADDED from /home/maksim/work/AndroidStudioProjects/NIT_Projects/nit_permission_normal_simple/app/src/main/AndroidManifest.xml
+		INJECTED from /home/maksim/work/AndroidStudioProjects/NIT_Projects/nit_permission_normal_simple/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/maksim/work/AndroidStudioProjects/NIT_Projects/nit_permission_normal_simple/app/src/main/AndroidManifest.xml
+		ADDED from /home/maksim/work/AndroidStudioProjects/NIT_Projects/nit_permission_normal_simple/app/src/main/AndroidManifest.xml
+		INJECTED from /home/maksim/work/AndroidStudioProjects/NIT_Projects/nit_permission_normal_simple/app/src/main/AndroidManifest.xml

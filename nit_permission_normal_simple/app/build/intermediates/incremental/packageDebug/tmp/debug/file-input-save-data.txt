@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Sep 20 19:15:14 EEST 2019
+0.baseType=DIRECTORY
+0.base=/home/maksim/work/AndroidStudioProjects/NIT_Projects/nit_permission_normal_simple/app/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1

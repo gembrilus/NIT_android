@@ -1,0 +1,10 @@
+#Wed Sep 25 21:40:22 EEST 2019
+path.2=classes_0.dex
+path.1=classes.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=/home/maksim/work/AndroidStudioProjects/NIT_Projects/nit_permission_normal/app/build/intermediates/dex/debug/mergeLibDexDebug/out/classes_0.dex
+base.1=/home/maksim/work/AndroidStudioProjects/NIT_Projects/nit_permission_normal/app/build/intermediates/dex/debug/mergeProjectDexDebug/out/classes.dex
+base.0=/home/maksim/work/AndroidStudioProjects/NIT_Projects/nit_permission_normal/app/build/intermediates/dex/debug/mergeExtDexDebug/out/classes.dex

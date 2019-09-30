@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:checker:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/checker/build/transforms/9ec16a9b655ef54d02461c90c45f892d/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/checker/build/transforms/9ec16a9b655ef54d02461c90c45f892d/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

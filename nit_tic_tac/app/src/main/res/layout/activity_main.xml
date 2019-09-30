@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+<TableLayout
+    android:id="@+id/tableLayout"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="48dp"
+    android:layout_gravity="center_horizontal">
+
+    <TableRow
+        android:minHeight="80dp"
+        android:minWidth="240dp"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content">
+
+        <Spinner
+            android:id="@+id/spinner11"
+            android:background="@drawable/shaped"
+            android:textAlignment="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent" />
+
+        <Spinner
+            android:id="@+id/spinner12"
+            android:background="@drawable/shaped"
+            android:textAlignment="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent" />
+
+        <Spinner
+            android:id="@+id/spinner13"
+            android:background="@drawable/shaped"
+            android:textAlignment="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent" />
+    </TableRow>
+
+    <TableRow
+        android:minHeight="80dp"
+        android:minWidth="240dp"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content">
+
+        <Spinner
+            android:id="@+id/spinner21"
+            android:background="@drawable/shaped"
+            android:textAlignment="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent" />
+
+        <Spinner
+            android:id="@+id/spinner22"
+            android:background="@drawable/shaped"
+            android:textAlignment="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent" />
+
+        <Spinner
+            android:id="@+id/spinner23"
+            android:background="@drawable/shaped"
+            android:textAlignment="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent" />
+    </TableRow>
+
+    <TableRow
+        android:minHeight="80dp"
+        android:minWidth="240dp"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content">
+
+        <Spinner
+            android:id="@+id/spinner31"
+            android:background="@drawable/shaped"
+            android:textAlignment="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent" />
+
+        <Spinner
+            android:id="@+id/spinner32"
+            android:background="@drawable/shaped"
+            android:textAlignment="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent" />
+
+        <Spinner
+            android:id="@+id/spinner33"
+            android:background="@drawable/shaped"
+            android:textAlignment="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent" />
+    </TableRow>
+</TableLayout>
+    <TextView
+        android:id="@+id/status"
+        android:layout_margin="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+</LinearLayout>
